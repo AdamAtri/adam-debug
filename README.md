@@ -1,6 +1,6 @@
 # adam-debug package
 
-AtomIDE tracing/debug inserter
+Atom IDE tracing/debug inserter.
 This package searches through the ActiveTextEditor to find function declarations,
 and inserts or removes tracing statements.
 
