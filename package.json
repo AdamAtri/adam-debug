@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": ["adam-debug:insertTracing", "adam-debug:removeTracing"]
   },
-  "repository": "https://github.com/atom/adam-debug",
+  "repository": "https://github.com/AdamAtri/adam-debug",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
