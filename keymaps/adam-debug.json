@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-shift-i": "adam-debug:insertTracing",
+    "ctrl-alt-shift-r": "adam-debug:removeTracing"
+  }
+}

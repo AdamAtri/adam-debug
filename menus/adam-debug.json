@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle adam-debug",
+        "command": "adam-debug:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "adam-debug",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "adam-debug:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
