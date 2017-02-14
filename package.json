@@ -1,18 +1,19 @@
 {
   "name": "adam-debug",
   "main": "./lib/adam-debug",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inserts debug tracing statements in the active file.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["adam-debug:insertTracing", "adam-debug:removeTracing"]
+    "atom-workspace": [
+      "adam-debug:insertTracing",
+      "adam-debug:removeTracing"
+    ]
   },
   "repository": "https://github.com/AdamAtri/adam-debug",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
