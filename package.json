@@ -2,7 +2,7 @@
   "name": "adam-debug",
   "main": "./lib/adam-debug",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Inserts debug tracing statements in the active file.",
   "keywords": [
   ],
   "activationCommands": {
